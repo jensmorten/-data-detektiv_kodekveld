@@ -4,7 +4,7 @@ Repo for kodekveld i Bouvet https://event.bouvet.no/event/e020398f-d768-445e-893
 
 
 
-🔍 Tasks That Lead Into EDA Traps
+🔍 Datadetektivens oppgaver
 1. Beskrivende statistikk og uteliggere
 Beregn gjennomsnitt, median og standardavvik for alder og lønn, og lag histogrammer. Finnes det noen uvanlige verdier?
 
